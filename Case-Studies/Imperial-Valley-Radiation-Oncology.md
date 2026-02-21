@@ -1,96 +1,118 @@
 # Imperial Valley Radiation Oncology  
-Regional Oncology Platform  
-Live Site: https://imperialvalleyro.com/
+**URL:** https://imperialvalleyro.com/  
+**Type:** Regional Radiation Oncology Platform  
+**CMS:** WordPress + Elementor  
+**Industry:** Healthcare / Oncology  
 
 
 
 ## Overview
 
-Imperial Valley Radiation Oncology is a California-based regional cancer treatment center focused on delivering structured, compassionate oncology care.
+Imperial Valley Radiation Oncology is a California-based regional cancer treatment center delivering structured radiation oncology services and comprehensive patient education.
 
-The platform supports treatment education, patient intake workflows, and long-term organic discoverability through a content-driven architecture.
+This platform was originally part of a combined regional oncology deployment and later separated into an independent digital property while preserving architectural consistency, SEO integrity, and workflow continuity.
 
-Although single-location, the site was engineered with network-level structural discipline.
-
-
-
-## Platform Type
-
-Single-Location Radiation Oncology Center  
-Content-Driven Treatment Platform
+The project demonstrates scalable template reuse, structured entity-level deployment, and clean separation strategy within a shared healthcare web architecture.
 
 
 
-## My Role
+## Scale
 
-- Treatment page architecture implementation  
-- Service taxonomy structuring  
-- SEO framework alignment  
-- Analytics + consent integration (GTM + OneTrust)  
-- Form workflow integration  
-- Ongoing content expansion and maintenance  
+- ~34 Pages  
+- ~118 Blog Posts  
+- Multi-service treatment structure  
+- Regional location-focused architecture  
+
+
+
+## Objectives
+
+- Provide clear radiation oncology service education
+- Improve local SEO visibility within the Imperial Valley region
+- Maintain patient-first navigation and accessibility
+- Separate from shared regional deployment without losing structural integrity
+- Preserve performance, URL equity, and metadata continuity during transition
 
 
 
 ## Architecture Highlights
 
-### 1. Structured Treatment Modeling
+### 1. Modular Treatment Page System
 
-- Radiation oncology service hierarchy  
-- Treatment-specific subpages  
-- Condition and education-focused blog integration  
-- Internal linking aligned with care pathways  
-
-
-
-### 2. Patient Navigation System
-
-- Simplified content flow for treatment discovery  
-- Clear CTA placement  
-- Search-enabled navigation  
-- Structured referral and intake workflows  
+- Structured radiation oncology treatment templates
+- Reusable accordion-based “What To Expect” system
+- SEO-optimized internal linking between treatment types
+- Shared structural framework adapted to regional identity
 
 
 
-### 3. SEO-Driven Content Expansion
+### 2. Location-Focused SEO Framework
 
-- Blog-to-service linking model  
-- Structured category organization  
-- Clean heading hierarchy  
-- Performance-conscious implementation  
-
-
-
-## Technical Implementation
-
-- WordPress + Elementor modular template system  
-- Structured URL hierarchy  
-- GTM integration with consent gating  
-- Formstack integration for intake workflows  
-- Controlled script loading for performance stability  
+- Regional keyword targeting
+- Structured service-area content
+- Clean URL hierarchy
+- Schema implementation for healthcare services
 
 
 
-## Scale Indicators
+### 3. Shared Design System with Regional Customization
 
-- 34 structured production pages across treatments and patient resources  
-- 118 educational blog posts supporting organic traffic growth  
-- Structured treatment-based content expansion model  
-- Single-location platform built with scalable architecture principles  
-
+- Retained core design language from prior combined platform
+- Applied Imperial Valley brand styling and color palette
+- Maintained UI/UX consistency while separating entity identity
 
 
-## Outcomes
 
-- Improved clarity of treatment pathways  
-- Strong educational content footprint  
-- Increased structured discoverability for oncology services  
-- Reduced duplication through modular template reuse  
+### 4. Entity Separation & Continuity Strategy
+
+- Extracted from previously combined regional oncology platform
+- Maintained shared modular template system
+- Preserved URL structure where possible
+- Ensured SEO continuity during separation
+- Prevented duplication issues through controlled component reuse
+- Avoided content cannibalization between split entities
 
 
 
 ## Systems Perspective
 
-Imperial Valley Radiation Oncology operates as a structured treatment-focused digital system.
+Imperial Valley Radiation Oncology represents a regional deployment built from a shared architectural foundation.
 
-The architecture emphasizes modularity, SEO alignment, and workflow clarity — enabling a regional oncology center to function with the structural rigor of a larger healthcare network.
+The platform demonstrates how modular web systems can be separated into independent entities without sacrificing structural integrity, SEO performance, or workflow continuity.
+
+Rather than rebuilding from scratch, the system was carefully partitioned and redeployed — reflecting scalable healthcare platform engineering rather than isolated site development.
+
+
+
+## Technical Stack
+
+- WordPress
+- Elementor
+- Custom CSS
+- Structured content templates
+- SEO optimization framework
+- Analytics & tag integrations
+- Form workflows and referral pathways
+
+
+
+## Key Takeaways
+
+- Demonstrates scalable healthcare platform architecture
+- Shows controlled entity separation from shared infrastructure
+- Maintains performance and SEO during structural migration
+- Reflects system-level thinking rather than isolated web builds
+
+
+
+## Related Regional Deployment
+
+- South Bay Radiation Oncology  
+  (Originally part of shared platform prior to entity split)
+
+
+
+**Role:**  
+Lead Web Developer / Systems Architect  
+
+Designed, structured, separated, and optimized the platform while maintaining architectural consistency across regional oncology deployments.
