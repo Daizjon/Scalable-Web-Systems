@@ -22,6 +22,7 @@ Healthcare Diagnostic & Referral Platform
 
 
 ## My Role
+Lead Web Developer / Systems Architect  
 
 - Multi-location content architecture implementation  
 - Imaging service taxonomy modeling  
